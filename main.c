@@ -1,6 +1,4 @@
 #include <stdio.h>
-#include "math/MathFunctions.h"
-
 
 #include "lualib/lua.h"
 #include "lualib/lauxlib.h"
